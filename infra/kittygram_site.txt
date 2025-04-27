@@ -1,5 +1,5 @@
  IP: 51.250.19.225;
- name_taski: https://testpraktikumm.zapto.org/;
- name_kittygram: https://testkittygram.zapto.org/;
+ name_taski: https://testpraktikumm.zapto.org;
+ name_kittygram: https://testkittygram.zapto.org;
  login: yc-user;
  password: admin;
